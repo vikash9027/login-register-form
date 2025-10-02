@@ -29,4 +29,4 @@ The complete source code is available in this repository.
 
 ---
 
-✨ Made with ❤️ by [Your Name]  
+✨ Made with ❤️ by [vikash giri]  
