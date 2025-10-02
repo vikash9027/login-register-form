@@ -10,7 +10,7 @@ This is a simple **Login and Registration System** built using **PHP, MySQL, HTM
 - Responsive design  
 
 ## 🌐 Live Demo  
-👉 [Click Here to View Project](login-register-form.rf.gd)  
+👉 [Click Here to View Project](http://login-register-form.rf.gd)  
 
 ## 💻 Source Code  
 The complete source code is available in this repository.  
